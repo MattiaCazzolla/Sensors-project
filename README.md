@@ -9,6 +9,7 @@ The **src** folder cointains:
 The **media** folder contains:
 - circuit schematic
 - breadbord schematic
+- GUI screenshots
 - power point presentation
 - video of the demo
 - report of the project
