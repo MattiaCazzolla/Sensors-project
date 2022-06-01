@@ -1,4 +1,5 @@
 # Arduino Thermostat with NTC Resistor
+Project from "Technologies for Sensors and Clinical Instrumentation" course
 ## Repository structure
 ### Src
 The **src** folder cointains:
