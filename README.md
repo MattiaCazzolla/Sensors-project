@@ -11,6 +11,7 @@ The **media** folder contains:
 - breadbord schematics
 - power point presentation
 - video of the demo
+- report of the project
 ## Contributors
 - Mattia CAZZOLLA
 - Mimma CERRETO
