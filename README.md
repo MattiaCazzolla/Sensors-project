@@ -7,8 +7,8 @@ The **src** folder cointains:
 - <code>img</code> ⟶ folder with images used in the GUI
 ### Media
 The **media** folder contains:
-- circuit schematics
-- breadbord schematics
+- circuit schematic
+- breadbord schematic
 - power point presentation
 - video of the demo
 - report of the project
