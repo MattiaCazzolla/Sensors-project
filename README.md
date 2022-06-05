@@ -1,4 +1,4 @@
-# Arduino Thermostat with NTC Resistor
+# Arduino Thermostat with NTC Thermistor
 Project from "Technologies for Sensors and Clinical Instrumentation" course. \
 The aim of the project was to develop a thermostat relying on Arduino hardware and a uncalibrated NTC thermistor.\
 We implemented the thermostat as a simplified neonatal incubator.
