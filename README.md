@@ -4,7 +4,7 @@ The aim of the project was to develop a thermostat relying on Arduino hardware a
 We implemented the thermostat as a simplified neonatal incubator.
 ## Prototype
 <p align="center">
-<img src="media/prototype photos/photo1.jpeg" width="512"/> 
+<img src="media/prototype photos/photo3.jpeg" width="512"/> 
 <img src="media/prototype photos/photo2.jpg" width="512"/> 
 </p>
 
